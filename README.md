@@ -20,7 +20,7 @@ Hi, My name is Litian Lei, a KTH Royal Institute of Technology bachelor student 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellohi-ll&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellohi-ll)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellohi-ll&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 hellohi-ll/hellohi-ll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
