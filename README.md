@@ -16,8 +16,25 @@ Hi, My name is Litian Lei, a KTH Royal Institute of Technology bachelor student 
 - [DH2642 -](https://www.kth.se/student/kurser/kurs/DH2642?l=en) [Interaction Programming and the Dynamic Web](https://gits-15.sys.kth.se/mircoram/2023-group-33-project)
 
 ---
-### Langueges
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellohi-ll&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Languages and Tools
+<a href="https://www.latex-project.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="Latex" width="40" height="40"/>
+  <a href="https://www.java.com/en/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <a href="https://html.com/html5/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <a href="https://www.arduino.cc/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Programming Language" **alt="C" width="40" height="40"/>
+  <a href="https://slack.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack Workspace" **alt="Slack" width="40" height="40"/>
+     <a href="https://react.dev/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="Slack" width="40" height="40"/>
+     <a href="https://www.mathworks.com/products/matlab.html">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" **alt="Slack" width="40" height="40"/>
+     <a href="https://vuejs.org/ ">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg " title="Vuejs " **alt="Slack" width="40" height="40"/>
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellohi-ll&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
