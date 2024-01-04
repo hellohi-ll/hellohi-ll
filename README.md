@@ -10,8 +10,8 @@ Hi, My name is Litian Lei, a KTH Royal Institute of Technology bachelor student 
 ### Some projects I have worked on
 - [ID1018 -](https://www.kth.se/student/kurser/kurs/ID1018)[ Programming 1]()
 - [IS1200 -](https://www.kth.se/student/kurser/kurs/IS1200?l=en) [Computer Hardware Engineering](https://github.com/hellohi-ll/Uno32-ChipKIT-Snake)
-- [ID1021 -](https://www.kth.se/student/kurser/kurs/ID1021) [Algorithms and Data Structures]()
-- [IK1203 -](https://www.kth.se/student/kurser/kurs/IK1203?l=en) [Network and Communication]()
+- [ID1021 -](https://www.kth.se/student/kurser/kurs/ID1021) [Algorithms and Data Structures](https://github.com/hellohi-ll/ID1021-Course-Work)
+- [IK1203 -](https://www.kth.se/student/kurser/kurs/IK1203?l=en) [Network and Communication](https://github.com/hellohi-ll/IK1203-Course-Work)
 - [II1305 -](https://www.kth.se/student/kurser/kurs/II1305?l=en) [Project in Information and Communication Technology](https://github.com/henrisuurorg/fruit-detector)
 - [DH2642 -](https://www.kth.se/student/kurser/kurs/DH2642?l=en) [Interaction Programming and the Dynamic Web](https://gits-15.sys.kth.se/mircoram/2023-group-33-project)
 
